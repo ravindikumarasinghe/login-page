@@ -101,6 +101,8 @@ form{
     text-align: center;
     margin-top: 0;
     background-color: black;
+    color:white;
+    padding:50px;
 }
 .submit{
     background-color: goldenrod;
